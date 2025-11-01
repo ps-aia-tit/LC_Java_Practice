@@ -40,7 +40,7 @@ Senior Backend Java interviews assess more than coding:
 
 ---
 
-## 🧪 Representative LeetCode Questions
+## 🧪 Representative Questions
 
 | Question                                      | Difficulty | Category                         |
 |-----------------------------------------------|------------|----------------------------------|
