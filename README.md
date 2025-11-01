@@ -2,7 +2,7 @@
 
 ## 🎯 Key Topic Areas for Senior Backend Java Roles
 
-| Topic Area                 | Typical Complexity | Recommended LeetCode Problems                                      |
+| Topic Area                 | Typical Complexity | Recommended Problems                                      |
 |----------------------------|--------------------|--------------------------------------------------------------------|
 | Arrays & Strings           | Easy to Medium     | Two Sum, Palindrome Number, Valid Parentheses                      |
 | Data Structures            | Medium             | Implement Trie, LRU Cache, Merge k Sorted Lists                    |
@@ -30,7 +30,7 @@
 
 ---
 
-## 🧠 Beyond LeetCode: System Design & Java Concepts
+## 🧠 Beyond : System Design & Java Concepts
 
 Senior Backend Java interviews assess more than coding:
 
